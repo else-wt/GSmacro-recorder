@@ -7,7 +7,9 @@ de su creador y también tendrás que dar creditos en caso de usarlas.
 TUTORIAL.
 ----------------
 Por ahora no hay una version .exe del proyecto por lo que se recomienda seguir los siguientes pasos para su instalación:
+
 ---Instalación.
+
 1.- Crea un entorno virtual desde la consola de python con `python -m venv venv` e instala las librerias necesarias, estas
 mismas se pueden ver desde gsmacro.py, como por ejemplo `customtkinter` que se instala con `pip install customtkinter`.
 2.- Una ves instaladas todas las librerias necesarias vamos a ejecutar el archivo gsmacro.py y veremos la siguiente interfaz:
