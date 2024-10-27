@@ -25,13 +25,13 @@ Por ahora no hay una version .exe del proyecto por lo que se recomienda seguir l
 PROGRAMA. ❤️‍🔥
 ---------------
 1.- Una ves dentro del programa veremos los siguientes botónes y opciones:
-- Iniciar grabación - empieza a grabar grabar la macro, todas las teclas que pulses, y las guarda.
-- Reproducir macro - reproduce la macro anteriormente grabada.
-- Detener reprodución - detiene la reproducion de la macro, sirve especialmente cuándo está en bucle.
-- Reproducir en bucle - Reproduce la macro en bucle hasta que esta se detenga con el botón anteriormente mencionado.
-- Dejar en primer plano - Deja la ventana siempre en primer plano aunque abras  o interactues con otro.
-- Ajuste de intervalo - Ajusta que tan rapido se reproducen los intervalos de tiempo entre teclas. Se recomienda siempre dejarlos al minimo.
-- Creditos - El nombre ya lo dice. @else_. en discord.
+- **`Iniciar grabación`** - empieza a grabar grabar la macro, todas las teclas que pulses, y las guarda.
+- **`Reproducir macro`** - reproduce la macro anteriormente grabada.
+- **`Detener reprodución`** - detiene la reproducion de la macro, sirve especialmente cuándo está en bucle.
+- **`Reproducir en bucle`** - Reproduce la macro en bucle hasta que esta se detenga con el botón anteriormente mencionado.
+- **`Dejar en primer plano`** - Deja la ventana siempre en primer plano aunque abras  o interactues con otro.
+- **`Ajuste de intervalo`** - Ajusta que tan rapido se reproducen los intervalos de tiempo entre teclas. Se recomienda siempre dejarlos al minimo.
+- **`Creditos`** - El nombre ya lo dice. @else_. en discord.
 
 ---Opciones avanzadas ⚡
 - Importación y exportación:
