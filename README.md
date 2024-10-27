@@ -18,6 +18,7 @@ Por ahora no hay una version .exe del proyecto por lo que se recomienda seguir l
 - **`1`** Entra a https://github.com/else-wt/GSmacro/blob/main/GSmacro-recorder.exe y busca la opcion para instalarlo `(también puedes con Windows + shift + S)`.
 - **`2`** Una ves instalado, simplemente abre la ubicación del archivo y ejecuta el `.exe`
 - **`3`** Dentro del programa veremos la siguiente interfaz:
+- 
 ![image](https://github.com/user-attachments/assets/2ec6ce66-ca2b-4672-a571-2c6154374cc0)
 
 
