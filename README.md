@@ -1,3 +1,6 @@
+[![Discord Shield](https://discordapp.com/api/guilds/1022170275984457759/widget.png?style=shield)](https://discord.gg/UEPsBPWF)
+
+
 Terminos de uso.
 ----------------
 GSmacro es una app de codigo abierto, si bien su uso es libre y puedes modificarlo para motivos educacionales, siempre tendrás que dar creditos a else-wt dejando el link
