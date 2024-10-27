@@ -14,7 +14,7 @@ TUTORIAL. 🐔
 ----------------
 Por ahora no hay una version .exe del proyecto por lo que se recomienda seguir los siguientes pasos para su instalación:
 
----Instalación. ⬇️
+##`Instalación. `⬇️
 - **`1`** Entra a https://github.com/else-wt/GSmacro/blob/main/GSmacro-recorder.exe y busca la opcion para instalarlo `(también puedes con Windows + shift + S)`.
 - **`2`** Una ves instalado, simplemente abre la ubicación del archivo y ejecuta el `.exe`
 - **`3`** Dentro del programa veremos la siguiente interfaz:
