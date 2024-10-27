@@ -15,6 +15,7 @@ TUTORIAL. 🐔
 Por ahora no hay una version .exe del proyecto por lo que se recomienda seguir los siguientes pasos para su instalación:
 
 -Instalación. ⬇️
+
 1.- Instala python si es que no lo tienes, desde https://www.python.org/downloads/ muy fácil, puedes ver otras guias desde youtube, no te debe de llevar mas de 2 minutos.
 
 1/2 (opcional, pero si no sabes absolutamente nada de programar mejor hazlo)
