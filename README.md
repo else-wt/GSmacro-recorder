@@ -33,7 +33,6 @@ mismas se pueden ver desde gsmacro.py, como por ejemplo `customtkinter` que se i
   - **`threading`** - `pip install threading`
 
 3.- Una ves instaladas todas las librerias necesarias vamos a ejecutar el archivo gsmacro.py y veremos la siguiente interfaz:
-![image](https://github.com/user-attachments/assets/86cc8b39-eaba-4112-8c9e-c1ebfd0659b1)
 ![image](https://github.com/user-attachments/assets/2ec6ce66-ca2b-4672-a571-2c6154374cc0)
 
 
