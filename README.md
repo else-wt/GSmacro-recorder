@@ -1,14 +1,14 @@
 [![Discord Shield](https://discordapp.com/api/guilds/1022170275984457759/widget.png?style=shield)](https://discord.gg/UEPsBPWF)
 
 # GSmacro
-optimización escencial todo-en-uno
-
+"optimización escencial todo-en-uno"
+No sabias que necesitabas esta app. 
 
 Terminos de uso. 😌
 ----------------
-GSmacro es una app de codigo abierto, si bien su uso es libre y puedes modificarlo para motivos educacionales, siempre tendrás que dar creditos a else-wt dejando el link
-de este proyecto en alguna parte visible de el codigo, app, o cualquier archivo en el qué hagas uso de este proyecto y pagina en donde se aloje. También cabe recalcar que la imagen de raton.ico y logo.png son imagénes propias
-de su creador y también tendrás que dar creditos en caso de usarlas.
+```GSmacro es una app de codigo abierto, si bien su uso es libre y puedes modificarlo para motivos educacionales, siempre tendrás que dar creditos a else-wt dejando el link```
+```de este proyecto en alguna parte visible de el codigo, app, o cualquier archivo en el qué hagas uso de este proyecto y pagina en donde se aloje. También cabe recalcar que la imagen de raton.ico y logo.png son imagénes propias```
+```de su creador y también tendrás que dar creditos en caso de usarlas.```
 
 TUTORIAL. 🐔
 ----------------
