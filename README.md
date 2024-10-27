@@ -9,11 +9,15 @@ TUTORIAL.
 Por ahora no hay una version .exe del proyecto por lo que se recomienda seguir los siguientes pasos para su instalación:
 
 ---Instalación.
+1.- Instala python si es que no lo tienes desde https://www.python.org/downloads/ muy facil, puedes ver otras guias, no te debe de llevar mas de 2 minutos.
 
-1.- Crea un entorno virtual desde la consola de python con `python -m venv venv` e instala las librerias necesarias, estas
+2.- Ejecuta gsmacro.py con una terminal un entorno virtual desde la consola de python con `python -m venv venv` e instala las librerias necesarias, estas
 mismas se pueden ver desde gsmacro.py, como por ejemplo `customtkinter` que se instala con `pip install customtkinter`.
 
-2.- Una ves instaladas todas las librerias necesarias vamos a ejecutar el archivo gsmacro.py y veremos la siguiente interfaz:
+---Bibliotecas necesarias.
+  - 
+
+3.- Una ves instaladas todas las librerias necesarias vamos a ejecutar el archivo gsmacro.py y veremos la siguiente interfaz:
 ![image](https://github.com/user-attachments/assets/86cc8b39-eaba-4112-8c9e-c1ebfd0659b1)
 
 PROGRAMA.
