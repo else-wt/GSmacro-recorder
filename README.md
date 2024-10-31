@@ -1,7 +1,7 @@
 [![Discord Shield](https://discordapp.com/api/guilds/1022170275984457759/widget.png?style=shield)](https://discord.gg/UEPsBPWF)
 
 # GSmacro 1.2.0⚡
-"optimización escencial todo-en-uno"
+gsmacro "optimización escencial todo-en-uno"
 Automatiza todas las tareas que quieras!
 Gana XP infinita en videojuegos!
 Graba y reproducelo 2x mas rapido!
