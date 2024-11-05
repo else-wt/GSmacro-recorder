@@ -1,7 +1,7 @@
 [![Discord Shield](https://discordapp.com/api/guilds/1022170275984457759/widget.png?style=shield)](https://discord.gg/UEPsBPWF)
 
 # GSmacro 1.2.0⚡
-gsmacro "Automatizalo y gana"
+GSmacro "Automatizalo y gana"
 Automatiza todas las tareas que quieras!
 Gana XP infinita en videojuegos!
 Graba y reproducelo según como quieras, las posibilidades son infinitas!
@@ -66,3 +66,6 @@ PROGRAMA. ❤️‍🔥
     -opcionales:
   - **`json`** - `pip install json`
   - **`threading`** - `pip install threading`
+
+---Tags y tags y mas tags para que google me indexe 😭
+GSmacro-recorder gsmacro Gsmacroo macro-recorder GSmacro-recorder jsmacro gsmacro-r gs-macrorecorder gs-macro recorder macros minecraftmacros 
