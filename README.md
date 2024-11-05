@@ -1,10 +1,11 @@
 [![Discord Shield](https://discordapp.com/api/guilds/1022170275984457759/widget.png?style=shield)](https://discord.gg/UEPsBPWF)
 
-# GSmacro 1.2.0⚡
-GSmacro "Automatizalo y gana"
-Automatiza todas las tareas que quieras!
-Gana XP infinita en videojuegos!
-Graba y reproducelo según como quieras, las posibilidades son infinitas!
+<h1> GSmacro 1.2.0⚡</h1>
+**GSmacro-recorder, rapido, simple, y eficaz.** <br> <br>
+``🍿``Graba y reproducelo según como quieras! <br>
+``💫``automatiza todas las tareas posibles, <br>
+``🎮``y hasta gana premios y XP infinita en videojuegos! <br>
+```⚡ ``` - Necesitas esta app, GSmacro-recorder <br>
 ![gsmacro banner](https://github.com/user-attachments/assets/cb83aba9-159f-43f2-939d-fe456f227088)
 
 
@@ -23,10 +24,12 @@ TUTORIAL. 🐔
 ## `Instalación. `⬇️
 - **`1`** Entra a https://github.com/else-wt/GSmacro/blob/main/gsmacro.exe y busca la opcion para instalarlo `(también puedes con Windows + shift + S)`.
 - **`2`** Una ves instalado, simplemente abre la ubicación del archivo y ejecuta el `.exe`.
-       - `⚡Dependiendo de tu sistema operativo puede salir una ventana de alerta por editor desconocido, esto es normal puesto a que no soy una empresa ni nadie conocido con una firma digital. En ese caso debes de seleccionar "mas información" y darle a la opción de ejecutar.`
+  - `⚡Dependiendo de tu sistema operativo puede salir una ventana de alerta por editor desconocido, esto es normal puesto a que no soy una empresa ni nadie conocido con una firma digital. En ese caso debes de seleccionar "mas información" y darle a la opción de ejecutar.`
 - **`3`** Dentro del programa veremos la siguiente interfaz:
  
-![image](https://github.com/user-attachments/assets/2ec6ce66-ca2b-4672-a571-2c6154374cc0)
+![image](https://github.com/user-attachments/assets/2ec6ce66-ca2b-4672-a571-2c6154374cc0) 
+
+`interfaz de la versión 1.0.0 preview`
 
 
 PROGRAMA. ❤️‍🔥
