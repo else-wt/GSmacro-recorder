@@ -2,10 +2,10 @@
 
 <h1> GSmacro 1.2.0⚡</h1>
 **GSmacro-recorder, rapido, simple, y eficaz.** <br> <br>
-``🍿``Graba y reproducelo según como quieras! <br>
-``💫``automatiza todas las tareas posibles, <br>
-``🎮``y hasta gana premios y XP infinita en videojuegos! <br>
-```⚡ ``` - Necesitas esta app, GSmacro-recorder <br>
+🍿 - Graba y reproducelo según como quieras! <br>
+💫 - automatiza todas las tareas posibles, <br>
+🎮 - gana premios y XP infinita en videojuegos! <br>
+⚡ - Necesitas esta app, GSmacro-recorder <br>
 ![gsmacro banner](https://github.com/user-attachments/assets/cb83aba9-159f-43f2-939d-fe456f227088)
 
 
@@ -15,7 +15,7 @@
 Terminos de uso. 😌
 ----------------
 ```GSmacro es una app de codigo abierto, si bien su uso es libre y puedes modificarlo para motivos educacionales, siempre tendrás que dar creditos a else-wt dejando el link```
-```de este proyecto en alguna parte visible de el codigo, app, o cualquier archivo en el qué hagas uso de este proyecto y pagina en donde se aloje. También cabe recalcar que la imagen de raton.ico y logo.png son imagénes propias```
+```de🍿 este proyecto en alguna parte visible de el codigo, app, o cualquier archivo en el qué hagas uso de este proyecto y pagina en donde se aloje. También cabe recalcar que la imagen de raton.ico y logo.png son imagénes propias```
 ```de su creador y también tendrás que dar creditos en caso de usarlas.```
 
 TUTORIAL. 🐔
