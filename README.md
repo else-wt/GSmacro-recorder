@@ -1,6 +1,7 @@
 [![Discord Shield](https://discordapp.com/api/guilds/1022170275984457759/widget.png?style=shield)](https://discord.gg/UEPsBPWF)
 
 <h1> GSmacro 1.2.0⚡</h1>
+
 **GSmacro-recorder, rapido, simple, y eficaz.** <br> <br>
 🍿 - Graba y reproducelo según como quieras! <br>
 💫 - automatiza todas las tareas posibles, <br>
