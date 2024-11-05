@@ -6,6 +6,7 @@
 💫 - automatiza todas las tareas posibles, <br>
 🎮 - gana premios y XP infinita en videojuegos! <br>
 ⚡ - Necesitas esta app, GSmacro-recorder <br>
+
 ![gsmacro banner](https://github.com/user-attachments/assets/cb83aba9-159f-43f2-939d-fe456f227088)
 
 
