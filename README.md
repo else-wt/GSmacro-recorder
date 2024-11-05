@@ -5,6 +5,9 @@ GSmacro "Automatizalo y gana"
 Automatiza todas las tareas que quieras!
 Gana XP infinita en videojuegos!
 Graba y reproducelo según como quieras, las posibilidades son infinitas!
+![gsmacro banner](https://github.com/user-attachments/assets/cb83aba9-159f-43f2-939d-fe456f227088)
+
+
 
 ``gsmacro macro recorder gsmacro-recorder macros gsmacros gs-macro gsmacrorecorder gsmacro recorder ``
 
