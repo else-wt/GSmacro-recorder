@@ -1,10 +1,12 @@
 [![Discord Shield](https://discordapp.com/api/guilds/1022170275984457759/widget.png?style=shield)](https://discord.gg/UEPsBPWF)
 
 # GSmacro 1.2.0⚡
-gsmacro "optimización escencial todo-en-uno"
+gsmacro "Automatizalo y gana"
 Automatiza todas las tareas que quieras!
 Gana XP infinita en videojuegos!
-Graba y reproducelo 2x mas rapido!
+Graba y reproducelo según como quieras, las posibilidades son infinitas!
+
+``gsmacro macro recorder gsmacro-recorder macros gsmacros gs-macro gsmacrorecorder gsmacro recorder ``
 
 Terminos de uso. 😌
 ----------------
